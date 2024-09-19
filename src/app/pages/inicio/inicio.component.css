@@ -1,0 +1,24 @@
+.container-inicio {
+    margin: 20px;
+}
+
+.container-opciones {
+    margin-bottom: 20px;
+}
+
+.mat-elevation-z2 {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+table {
+    width: 100%;
+}
+
+th.mat-header-cell {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
+
+td.mat-cell {
+    vertical-align: middle;
+}
